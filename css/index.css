@@ -466,6 +466,9 @@ min-width: auto;
     .home-content{
         order: 2;
     }
+    .services-box{
+        
+    }
 }
 @media(max-width:617px){
     .portfolio-box{
