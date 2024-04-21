@@ -467,7 +467,7 @@ min-width: auto;
         order: 2;
     }
     .services-box{
-        
+
     }
 }
 @media(max-width:617px){
@@ -477,6 +477,7 @@ min-width: auto;
     .home-img img{
         width: 80vw;
         margin-top: 8rem;
+        margin-bottom: 4rem;
     }
     .aboutimg{
         width: 50vw;
