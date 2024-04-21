@@ -445,6 +445,7 @@ min-width: auto;
     .home-content img{
         width: 90vw;
         margin-top: 4rem;
+        margin-bottom: 4rem;
     }
     .about {
         flex-direction: column;
@@ -475,7 +476,7 @@ min-width: auto;
         margin-top: 8rem;
     }
     .aboutimg{
-        width: 100vw;
+        width: 50vw;
         margin-top: 4rem;
     }
 }
